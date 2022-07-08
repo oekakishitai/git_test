@@ -1,7 +1,7 @@
 # git_test
 test
 
-#heading
+#見出し
 
 テストtest
 
